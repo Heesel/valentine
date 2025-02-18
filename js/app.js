@@ -8,8 +8,7 @@ document.querySelectorAll('button').forEach(function(button) {
             document.querySelector('#particles-js').style.display = "block"
             const messages = [
                 'YAY, I LOVE YOU!', 'This makes me so happy!', 'Yessss!', 'OMG! She said yes :)',
-                'You choose the right answer', 'You made my day', "You've made my heart flutter!",
-                "You're my sunshine on a cloudy day!", "You mean the world to me", 'Y- you actually said yes 🥲'
+                'You choose the right answer 😍', 'You made my day 🥰', "You've made my heart flutter!", "You mean the world to me", 'Y- you actually said yes 🥲'
                 
             ] 
             const random = Math.floor(Math.random() * messages.length);
